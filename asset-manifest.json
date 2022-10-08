@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/zhefs-RoboFriends/static/css/main.ebca42e5.css",
-    "main.js": "/zhefs-RoboFriends/static/js/main.72b3340c.js",
-    "static/js/787.052ba577.chunk.js": "/zhefs-RoboFriends/static/js/787.052ba577.chunk.js",
-    "static/media/SEGA.woff": "/zhefs-RoboFriends/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
-    "index.html": "/zhefs-RoboFriends/index.html",
-    "main.ebca42e5.css.map": "/zhefs-RoboFriends/static/css/main.ebca42e5.css.map",
-    "main.72b3340c.js.map": "/zhefs-RoboFriends/static/js/main.72b3340c.js.map",
-    "787.052ba577.chunk.js.map": "/zhefs-RoboFriends/static/js/787.052ba577.chunk.js.map"
+    "main.css": "/zhef-RoboFriends-Website/static/css/main.0c455f1c.css",
+    "main.js": "/zhef-RoboFriends-Website/static/js/main.08ae1198.js",
+    "static/js/787.052ba577.chunk.js": "/zhef-RoboFriends-Website/static/js/787.052ba577.chunk.js",
+    "static/media/SEGA.woff": "/zhef-RoboFriends-Website/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/zhef-RoboFriends-Website/index.html",
+    "main.0c455f1c.css.map": "/zhef-RoboFriends-Website/static/css/main.0c455f1c.css.map",
+    "main.08ae1198.js.map": "/zhef-RoboFriends-Website/static/js/main.08ae1198.js.map",
+    "787.052ba577.chunk.js.map": "/zhef-RoboFriends-Website/static/js/787.052ba577.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ebca42e5.css",
-    "static/js/main.72b3340c.js"
+    "static/css/main.0c455f1c.css",
+    "static/js/main.08ae1198.js"
   ]
 }
