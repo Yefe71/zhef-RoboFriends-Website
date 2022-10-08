@@ -1,6 +1,7 @@
 {
   "name": "zhefs-robofriends",
-  "homepage": "https://zhef.github.io/zhefs-RoboFriends",
+  "homepage": "https://Yefe71.github.io/zhef-RoboFriends-Website", 
+  
   "version": "0.1.0",
   "private": true,
   "dependencies": {
